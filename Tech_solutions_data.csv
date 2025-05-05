@@ -1,0 +1,98 @@
+Project ID,Client ID,Service Type,Project Cost (GHS),Duration (Days),Client Satisfaction (1-5),Repeat Client,Completion Status
+1,5001,Cybersecurity Audit,"15,000.00",14,3,No,Completed
+2,5002,Cloud Migration,"25,000.00",21,4,Yes,Completed
+3,5003,IT Infrastructure,"30,000.00",35,2,No,Delayed
+4,5004,Software Dev,"50,000.00",45,5,Yes,Completed
+5,5005,IT Support Package,"10,000.00",7,4,No,Completed
+6,5006,Website Development,"8,000.00",10,3,No,Delayed
+7,5007,Data Analytics,"22,000.00",30,4,Yes,Completed
+8,5008,Cybersecurity Audit,"18,000.00",18,4,No,In Progress
+9,5009,IT Infrastructure,"35,000.00",35,3,Yes,Delayed
+10,5010,Cloud Migration,"28,000.00",25,5,No,Completed
+11,5011,Software Dev,"45,000.00",50,2,No,In Progress
+12,5002,IT Support Package,"12,000.00",10,4,Yes,Completed
+13,5012,Website Development,"9,500.00",14,3,No,Completed
+14,5013,Data Analytics,"28,086.73",28,5,Yes,Completed
+15,5004,Software Dev,"55,000.00",60,4,Yes,Delayed
+16,5014,IT Infrastructure,"32,000.00",40,4,No,In Progress
+17,5015,Cybersecurity Audit,"20,000.00",20,3,Yes,Completed
+18,5016,Cloud Migration,"26,000.00",35,4,No,Completed
+19,5006,Website Development,"7,500.00",12,2,No,Delayed
+20,5017,IT Support Package,"11,000.00",8,5,Yes,Completed
+21,5018,Data Analytics,"24,000.00",32,3,No,In Progress
+22,5019,Software Dev,"48,000.00",55,4,Yes,Delayed
+23,5001,IT Infrastructure,"28,000.00",38,4,No,Completed
+24,5020,Cybersecurity Audit,"17,000.00",16,3,Yes,Completed
+25,5021,Cloud Migration,"30,000.00",28,5,No,Completed
+26,5003,IT Support Package,"28,086.73",9,2,Yes,In Progress
+27,5022,Website Development,"10,000.00",15,4,No,Completed
+28,5023,Data Analytics,"26,000.00",35,3,Yes,Delayed
+29,5005,Software Dev,"52,000.00",65,5,No,In Progress
+30,5024,IT Infrastructure,"34,000.00",42,2,Yes,Completed
+31,5025,Cybersecurity Audit,"19,000.00",17,4,No,Completed
+32,5026,Cloud Migration,"27,000.00",24,4,Yes,In Progress
+33,5027,IT Infrastructure,"36,000.00",44,3,No,Delayed
+34,5028,Software Dev,"47,000.00",58,5,Yes,Completed
+35,5029,IT Support Package,"10,500.00",8,3,No,Completed
+36,5030,Website Development,"8,500.00",13,2,Yes,Delayed
+37,5031,Data Analytics,"23,000.00",31,4,No,In Progress
+38,5002,Cybersecurity Audit,"21,000.00",22,5,Yes,Completed
+39,5032,Cloud Migration,"29,000.00",27,3,No,Completed
+40,5033,IT Infrastructure,"33,000.00",41,4,Yes,Delayed
+41,5034,Software Dev,"49,000.00",62,4,No,In Progress
+42,5035,IT Support Package,"11,500.00",9,2,Yes,Completed
+43,5036,Website Development,"9,000.00",16,5,No,Completed
+44,5037,Data Analytics,"25,000.00",34,3,Yes,Delayed
+45,5007,Software Dev,"53,000.00",68,4,No,In Progress
+46,5038,IT Infrastructure,"37,000.00",46,2,Yes,Completed
+47,5039,Cybersecurity Audit,"17,500.00",15,3,No,Completed
+48,5040,Cloud Migration,"31,000.00",30,5,No,Delayed
+49,5041,IT Support Package,"9,500.00",7,4,Yes,In Progress
+50,5042,Website Development,"11,000.00",18,3,No,Completed
+51,5043,Data Analytics,"27,000.00",36,2,Yes,Completed
+52,5009,Software Dev,"51,000.00",70,5,No,Delayed
+53,5044,IT Infrastructure,"38,000.00",48,4,Yes,In Progress
+54,5045,Cybersecurity Audit,"18,500.00",19,3,No,Completed
+55,5046,Cloud Migration,"32,000.00",33,4,Yes,Completed
+56,5047,IT Support Package,"12,500.00",10,4,No,Delayed
+57,5048,Website Development,"10,500.00",17,2,Yes,In Progress
+58,5049,Data Analytics,"28,000.00",37,5,No,Completed
+59,5011,Software Dev,"54,000.00",75,3,Yes,Delayed
+60,5050,IT Infrastructure,"39,000.00",50,4,No,Completed
+61,5051,Cybersecurity Audit,"19,500.00",21,4,Yes,In Progress
+62,5052,Cloud Migration,"33,000.00",35,2,No,Completed
+63,5053,IT Support Package,"13,500.00",11,5,Yes,Delayed
+64,5054,Website Development,"11,500.00",20,3,No,In Progress
+65,5055,Data Analytics,"29,000.00",40,4,Yes,Completed
+66,5013,Software Dev,"56,000.00",80,2,No,Delayed
+67,5056,IT Infrastructure,"40,000.00",52,5,Yes,Completed
+68,5057,Cybersecurity Audit,"20,500.00",23,3,No,In Progress
+69,5058,Cloud Migration,"34,000.00",38,4,Yes,Completed
+70,5059,IT Support Package,"14,500.00",12,4,No,Delayed
+71,5060,Website Development,"12,000.00",22,3,Yes,In Progress
+72,5061,Data Analytics,"30,000.00",42,5,No,Completed
+73,5015,Software Dev,"57,000.00",85,4,Yes,Delayed
+74,5062,IT Infrastructure,"41,000.00",54,2,No,Completed
+75,5063,Cybersecurity Audit,"21,500.00",25,3,Yes,In Progress
+76,5064,Cloud Migration,"35,000.00",40,5,No,Completed
+77,5065,IT Support Package,"15,500.00",14,4,Yes,Delayed
+78,5066,Website Development,"12,500.00",24,4,No,In Progress
+79,5067,Data Analytics,"31,000.00",45,3,Yes,Completed
+81,5068,IT Infrastructure,"42,000.00",56,5,Yes,Completed
+82,5069,Cybersecurity Audit,"22,500.00",27,4,No,In Progress
+83,5070,Cloud Migration,"36,000.00",43,4,Yes,Completed
+84,5071,IT Support Package,"16,500.00",15,3,No,Delayed
+85,5072,Website Development,"13,000.00",26,5,Yes,In Progress
+86,5073,Data Analytics,"32,000.00",48,4,No,Completed
+88,5074,IT Infrastructure,"43,000.00",58,2,No,Completed
+89,5075,Cybersecurity Audit,"23,500.00",29,5,Yes,In Progress
+90,5076,Cloud Migration,"37,000.00",45,4,No,Completed
+91,5077,IT Support Package,"17,500.00",16,4,Yes,Delayed
+92,5078,Website Development,"13,500.00",28,3,No,In Progress
+93,5079,Data Analytics,"33,000.00",50,5,Yes,Completed
+95,5080,IT Infrastructure,"44,000.00",60,3,Yes,Completed
+96,5081,Cybersecurity Audit,"24,500.00",31,2,No,In Progress
+97,5082,Cloud Migration,"38,000.00",48,5,Yes,Completed
+98,5083,IT Support Package,"18,500.00",17,4,No,Delayed
+99,5084,Website Development,"14,000.00",30,3,Yes,In Progress
+100,5085,Data Analytics,"34,000.00",52,4,No,Completed
