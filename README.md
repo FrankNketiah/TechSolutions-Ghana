@@ -1,5 +1,9 @@
 # TechSolutions Ghana – Python Data Analysis Case Study
 
+<p align="center">
+  <img src= "https://i.pinimg.com/736x/8d/37/99/8d3799e24be55bdfddb7a4fd8e4100d0.jpg" alt="Welcome Banner" width="100%" height="250px" />
+</p>
+
 Welcome to the TechSolutions Ghana business analysis project — a deep dive into client retention, project delivery efficiency, and service performance using Python. This data-driven case study explores real business challenges in an IT consulting firm and provides strategic insights through clean, compelling analysis.
 
 ---
@@ -103,3 +107,6 @@ Accra, Ghana
 ---
 
 > *Turning code and context into commercial clarity.* 
+
+<img src= "https://i.pinimg.com/736x/ec/dc/3d/ecdc3d4174784779f3746866a6786296.jpg" alt="Welcome Banner" width="100%" height="250px" />
+</p>
